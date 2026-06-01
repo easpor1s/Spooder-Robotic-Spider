@@ -7,7 +7,7 @@ On the legs, one servo controls the legs movement along the X axis and two along
 The first iteration of Spider will be controlled via a game console controller such as a Xbox gamepad. The left joystick will control the robots front and back movement while the right joystick will control the robots left and right movement. 
 Additional functions will be mapped to the controllers shoulder buttons, directional pad, and the ABYX buttons as they are developed. 
 
-**Why does it exist? **
+**Why does it exist?**
 Both of us are in the same robotics competition and wanted to try something new. We only built wheeled drivetrains for our Vex bots and any variation in design is still centered around wheels but just in different configurations. 
 We decided to try something new so we settled on a walker robot idea that relies on legs with servos instead of wheels with motors. Additionally, with our previous robots, the building and design experience was highly procedural where all the parts came from a standardized catalogue which made the experience feel repetitive. 
 This project is our attempt at widening our hardware knowledge base and learning new skills while yielding something meaningful. Both of us have little to no experience with the components and steps we are using in the making of Spooder which is a steep learning curve and why this project is being attempted. 
