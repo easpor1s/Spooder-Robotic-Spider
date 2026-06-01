@@ -1,0 +1,17 @@
+**What is Spooder?**
+The first iteration of Spooder is a remote controlled robotic spider companion with 6 legs. It has a led display that projects a face and facial expressions based on the actions it takes. 
+At its core, the robot is powered by a 4gb Raspberry Pi 5 with a servo control hat add-on. The legs use a three jointed, two axis design which allows for a high degree of movement.
+On the legs, one servo controls the legs movement along the X axis and two along the Z axis. This design is very similar to the joint of your finger and allows the robot to grab at objects and sweep itself along smoothly. 
+
+**How do I interact with Spooder?**
+The first iteration of Spider will be controlled via a game console controller such as a Xbox gamepad. The left joystick will control the robots front and back movement while the right joystick will control the robots left and right movement. 
+Additional functions will be mapped to the controllers shoulder buttons, directional pad, and the ABYX buttons as they are developed. 
+
+**Why does it exist? **
+Both of us are in the same robotics competition and wanted to try something new. We only built wheeled drivetrains for our Vex bots and any variation in design is still centered around wheels but just in different configurations. 
+We decided to try something new so we settled on a walker robot idea that relies on legs with servos instead of wheels with motors. Additionally, with our previous robots, the building and design experience was highly procedural where all the parts came from a standardized catalogue which made the experience feel repetitive. 
+This project is our attempt at widening our hardware knowledge base and learning new skills while yielding something meaningful. Both of us have little to no experience with the components and steps we are using in the making of Spooder which is a steep learning curve and why this project is being attempted. 
+
+**What are the future plans of Spooder?**
+In the future, we aim to have Spooder have the hardware to run a local large language model and be able to track and follow you without human input. 
+We also aim for Spooder to be able to react to gestures such as waves, thumbs up, and maybe even give high-fives. In the future, components that will allow the bot to jump up onto or over obstacles may be added through spring or pneumatic systems as well. 
