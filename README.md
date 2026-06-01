@@ -27,4 +27,4 @@ Autodesk Fusion for CAD
 Canva for logo and image editing
 
 ## License
-[MIT]([url](https://opensource.org/license/mit)) License
+[MIT](https://opensource.org/license/mit) License
