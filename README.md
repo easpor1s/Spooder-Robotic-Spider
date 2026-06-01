@@ -22,8 +22,9 @@ In the future, we aim to have Spooder have the hardware to run a local large lan
 We also aim for Spooder to be able to react to gestures such as waves, thumbs up, and maybe even give high-fives. In the future, components that will allow the bot to jump up onto or over obstacles may be added through spring or pneumatic systems as well. 
 
 ## Programs
-Autodesk FUsion for CAD 
+Autodesk Fusion for CAD 
+
 Canva for logo and image editing
 
 ## License
-MIT License
+[MIT]([url](https://opensource.org/license/mit)) License
