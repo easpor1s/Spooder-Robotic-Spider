@@ -1,4 +1,5 @@
 <img width="2023" height="1000" alt="spooder" src="https://github.com/user-attachments/assets/a5dd973a-c596-4e7a-9383-b070b9fe8a04" />
+
 **What is Spooder?**
 The first iteration of Spooder is a remote controlled robotic spider companion with 6 legs. It has a led display that projects a face and facial expressions based on the actions it takes. 
 At its core, the robot is powered by a 4gb Raspberry Pi 5 with a servo control hat add-on. The legs use a three jointed, two axis design which allows for a high degree of movement.
