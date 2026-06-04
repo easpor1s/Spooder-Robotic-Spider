@@ -5,9 +5,10 @@ The first iteration of Spooder is a remote controlled robotic spider companion w
 At its core, the robot is powered by a 4gb Raspberry Pi 5 with a servo control hat add-on. The legs use a three jointed, two axis design which allows for a high degree of movement.
 On the legs, one servo controls the legs movement along the X axis and two along the Z axis. This design is very similar to the joint of your finger and allows the robot to grab at objects and sweep itself along smoothly. 
 
-<img width="3040" height="1209" alt="right v12" src="https://github.com/user-attachments/assets/ed0819e7-b28c-4900-8253-8422bfcf5f14" />
 
 
+
+<img width="3040" height="1209" alt="right v12" src="https://github.com/user-attachments/assets/c688c9c5-777c-4d02-a0f0-f8896aa30dc2" />
 
 
 
