@@ -1,9 +1,7 @@
 <img width="1920" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/ffc46d15-3e6c-4713-acb4-46140ba9873f" />
 
 ## What is Spooder?
-The first iteration of Spooder is a remote controlled robotic spider companion with 6 legs. It has a led display that projects a face and facial expressions based on the actions it takes. 
-At its core, the robot is powered by a 2gb Raspberry Pi 4 connected to a Pimoroni Yukon developement board through UART. The legs use a three jointed, two axis design which allows for a high degree of movement.
-On the legs, one servo controls the legs movement along the X axis and two along the Z axis. This design is very similar to the joint of your finger and allows the robot to grab at objects and sweep itself along smoothly. 
+Spooder is a remote controlled/autonomous hexapod controlled with a Raspberry Pi 4 and a Pimoroni Yukon. It includes 3 DS3225 25kg Servos per leg, for a total of 18 servos that are able to rotate on two axises, allowing for complex dynamic movement. The enclosure can be fully 3d printed, and is fitted with ball bearings throughout for minimal friction. 
 
 <img width="2160" height="1082" alt="spooder v20" src="https://github.com/user-attachments/assets/3e362f55-b312-420d-a190-587cc88aa4a5" />
 
