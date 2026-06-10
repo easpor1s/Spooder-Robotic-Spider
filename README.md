@@ -34,3 +34,4 @@ We also aim for Spooder to be able to react to gestures such as waves, thumbs up
 ## License
 [MIT](https://opensource.org/license/mit) License
 
+<img width="4405" height="6250" alt="png" src="https://github.com/user-attachments/assets/b8c873cf-2b28-488d-8d55-a4410d3862c0" />
