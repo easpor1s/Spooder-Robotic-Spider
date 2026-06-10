@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/ffc46d15-3e6c-4713-acb4-46140ba9873f" />
+<img width="4405" height="6250" alt="png" src="https://github.com/user-attachments/assets/b8c873cf-2b28-488d-8d55-a4410d3862c0" />
 
 ## What is Spooder?
 The first iteration of Spooder is a remote controlled robotic spider companion with 6 legs. It has a led display that projects a face and facial expressions based on the actions it takes. 
@@ -33,5 +33,3 @@ We also aim for Spooder to be able to react to gestures such as waves, thumbs up
 
 ## License
 [MIT](https://opensource.org/license/mit) License
-
-<img width="4405" height="6250" alt="png" src="https://github.com/user-attachments/assets/b8c873cf-2b28-488d-8d55-a4410d3862c0" />
