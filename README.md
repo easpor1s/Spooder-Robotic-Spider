@@ -32,3 +32,5 @@ We also aim for Spooder to be able to react to gestures such as waves, thumbs up
 [Canva](https://www.canva.com/) for graphic design
 ## License
 [MIT](https://opensource.org/license/mit) License
+
+<img width="2000" height="2000" alt="Untitled 6" src="https://github.com/user-attachments/assets/ae062b44-9d57-4e7a-9456-a416e64b4220" />
