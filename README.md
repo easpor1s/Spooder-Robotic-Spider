@@ -39,4 +39,10 @@ We also aim for Spooder to be able to react to gestures such as waves, thumbs up
 
 ##
 
-<img width="2000" height="2000" alt="Untitled 6" src="https://github.com/user-attachments/assets/ae062b44-9d57-4e7a-9456-a416e64b4220" />
+<img width="2560" height="1082" alt="spooder_2026-Jun-12_03-33-17AM-000_CustomizedView14989865191" src="https://github.com/user-attachments/assets/4ae8d033-5426-46f3-b79d-cc33bd51912d" />
+
+<img width="2560" height="1082" alt="spooder_2026-Jun-12_03-34-23AM-000_CustomizedView12326146163" src="https://github.com/user-attachments/assets/f7218ef7-9364-4a14-9654-8635a22a3805" />
+
+<img width="2560" height="1082" alt="spooder_2026-Jun-12_03-38-04AM-000_CustomizedView1378896069" src="https://github.com/user-attachments/assets/9b88b611-0174-4437-817d-ab47e9320f6b" />
+
+<img width="2560" height="1082" alt="spooder_2026-Jun-12_03-49-51AM-000_CustomizedView15966012020" src="https://github.com/user-attachments/assets/b154f765-a987-4165-9e39-be1e5c144866" />
