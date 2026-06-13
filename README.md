@@ -43,11 +43,11 @@ sudo systemctl enable --now pigpiod
 
 Install Libraries
 
-cd /home/spooder/hexapod source venv/bin/activate pip install --upgrade pip setuptools wheel pip install pygame pyyaml pip install --no-cache-dir adafruit-circuitpython-lsm6ds 
+cd /home/your_username/hexapod source venv/bin/activate pip install --upgrade pip setuptools wheel pip install pygame pyyaml pip install --no-cache-dir adafruit-circuitpython-lsm6ds 
 
 Run controller: 
 
-sudo /home/spooder/hexapod/venv/bin/python3 /home/spooder/hexapod/main.py 
+sudo /home/your_username/hexapod/venv/bin/python3 /home/spooder/hexapod/main.py 
 
 
 ## Librarys
