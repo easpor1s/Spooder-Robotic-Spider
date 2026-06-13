@@ -27,7 +27,7 @@ To set up code, first make sure all hardware dependencies are met. You will need
 
 PowerShell:
 
-powershell -ExecutionPolicy Bypass -File .\deploy.ps1 -PiHost "your_pi_ip_here" -PiUser "your username"
+powershell -ExecutionPolicy Bypass -File .\deploy.ps1 -PiHost "your_pi_ip" -PiUser "your username"
 
 Raspi Terminal:
 
