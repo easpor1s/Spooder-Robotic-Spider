@@ -1,4 +1,4 @@
-<img width="4405" height="6250" alt="Spooder Zine Page" src="https://github.com/user-attachments/assets/4c914eff-6c2b-49e5-b831-8bbfb7176893" />
+<img width="4405" height="6250" alt="Spooder Zine" src="https://github.com/user-attachments/assets/76d56d2c-0e11-447f-9d7d-c241b8231d9e" />
 
 
 ## What is Spooder?
