@@ -1,4 +1,4 @@
-<img width="4405" height="6250" alt="Spooder Zine Page" src="https://github.com/user-attachments/assets/4c914eff-6c2b-49e5-b831-8bbfb7176893" />
+<img width="4405" height="6250" alt="Spooder Zine" src="https://github.com/user-attachments/assets/76d56d2c-0e11-447f-9d7d-c241b8231d9e" />
 
 
 ## What is Spooder?
@@ -21,6 +21,44 @@ This project is our attempt at widening our hardware knowledge base and learning
 ## What are the future plans of Spooder?
 In the future, we aim to have Spooder have the hardware to run a local large language model and be able to track and follow you without human input. 
 We also aim for Spooder to be able to react to gestures such as waves, thumbs up, and maybe even give high-fives where it will raise on of its legs to tap your hand. In the future, components that will allow the bot to jump up onto or over obstacles may be added through spring or pneumatic systems as well. 
+
+## Instructions
+Because the models and enclosure is split into multiple components, assembly can be quite tricky.
+- 3d print all models with petg ot CF-petg except for the leg tips, which should use TPU.
+- Add appropriate brass inserts and bearings, which should be heat set and friction fit appropriately
+- Sand down joints if needed
+- Assemble left and right legs, and mount the body servo arm to the top part of the legs
+- Attach the motors to the mounts on the body, and then attach the leg assembly to them.
+- Add electronics to the baseplate, and the LED matrix to the top enclosure
+- Wire all components and add power supply and power bank
+- Assemble all components together, the leg mounts, guards and top enclosure to the baseplate
+## Setting up code
+To set up code, first make sure all hardware dependencies are met. You will need a Pimoroni Yuking with 5 servo modules attached, a USB-A to USB-C cable running from the Raspberry Pi to the Yukon, a gamepad dongle plugged into the pi and your gyro connected to the pi through i2c as well. On the software side, you must have Python 3.9 and the Pigpio system on the Pi. 
+
+PowerShell:
+
+powershell -ExecutionPolicy Bypass -File .\deploy.ps1 -PiHost "your_pi_ip" -PiUser "your username"
+
+Raspi Terminal:
+
+Setup Environment:
+
+ssh your_username@your_pi_ip_here cd /home/your_username/hexapod chmod +x setup_pi.sh ./setup_pi.sh 
+
+Install sys dependancies:
+
+sudo apt-get update
+sudo apt-get install python3 python3-pip python3-venv pigpio python3-pigpio git -y
+sudo systemctl enable --now pigpiod
+
+Install Libraries:
+
+cd /home/your_username/hexapod source venv/bin/activate pip install --upgrade pip setuptools wheel pip install pygame pyyaml pip install --no-cache-dir adafruit-circuitpython-lsm6ds 
+
+Run controller: 
+
+sudo /home/your_username/hexapod/venv/bin/python3 /home/spooder/hexapod/main.py 
+
 
 ## Librarys
 [PIGPIO](https://github.com/joan2937/pigpio) for servo control
