@@ -22,6 +22,16 @@ This project is our attempt at widening our hardware knowledge base and learning
 In the future, we aim to have Spooder have the hardware to run a local large language model and be able to track and follow you without human input. 
 We also aim for Spooder to be able to react to gestures such as waves, thumbs up, and maybe even give high-fives where it will raise on of its legs to tap your hand. In the future, components that will allow the bot to jump up onto or over obstacles may be added through spring or pneumatic systems as well. 
 
+## Instructions
+Because the models and enclosure is split into multiple components, assembly can be quite tricky.
+- 3d print all models with petg ot CF-petg except for the leg tips, which should use TPU.
+- Add appropriate brass inserts and bearings, which should be heat set and friction fit appropriately
+- Sand down joints if needed
+- Assemble left and right legs, and mount the body servo arm to the top part of the legs
+- Attach the motors to the mounts on the body, and then attach the leg assembly to them.
+- Add electronics to the baseplate, and the LED matrix to the top enclosure
+- Wire all components and add power supply and power bank
+- Assemble all components together, the leg mounts, guards and top enclosure to the baseplate
 ## Librarys
 [PIGPIO](https://github.com/joan2937/pigpio) for servo control
 
