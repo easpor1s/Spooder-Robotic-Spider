@@ -41,7 +41,7 @@ sudo apt-get update
 sudo apt-get install python3 python3-pip python3-venv pigpio python3-pigpio git -y
 sudo systemctl enable --now pigpiod
 
-Install Libraries
+Install Libraries:
 
 cd /home/your_username/hexapod source venv/bin/activate pip install --upgrade pip setuptools wheel pip install pygame pyyaml pip install --no-cache-dir adafruit-circuitpython-lsm6ds 
 
