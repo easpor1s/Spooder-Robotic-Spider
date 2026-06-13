@@ -32,6 +32,34 @@ Because the models and enclosure is split into multiple components, assembly can
 - Add electronics to the baseplate, and the LED matrix to the top enclosure
 - Wire all components and add power supply and power bank
 - Assemble all components together, the leg mounts, guards and top enclosure to the baseplate
+## Setting up code
+To set up code, first make sure all hardware dependencies are met. You will need a Pimoroni Yuking with 5 servo modules attached, a USB-A to USB-C cable running from the Raspberry Pi to the Yukon, a gamepad dongle plugged into the pi and your gyro connected to the pi through i2c as well. On the software side, you must have Python 3.9 and the Pigpio system on the Pi. 
+
+PowerShell:
+
+powershell -ExecutionPolicy Bypass -File .\deploy.ps1 -PiHost "your_pi_ip" -PiUser "your username"
+
+Raspi Terminal:
+
+Setup Environment:
+
+ssh your_username@your_pi_ip_here cd /home/your_username/hexapod chmod +x setup_pi.sh ./setup_pi.sh 
+
+Install sys dependancies:
+
+sudo apt-get update
+sudo apt-get install python3 python3-pip python3-venv pigpio python3-pigpio git -y
+sudo systemctl enable --now pigpiod
+
+Install Libraries:
+
+cd /home/your_username/hexapod source venv/bin/activate pip install --upgrade pip setuptools wheel pip install pygame pyyaml pip install --no-cache-dir adafruit-circuitpython-lsm6ds 
+
+Run controller: 
+
+sudo /home/your_username/hexapod/venv/bin/python3 /home/spooder/hexapod/main.py 
+
+
 ## Librarys
 [PIGPIO](https://github.com/joan2937/pigpio) for servo control
 
