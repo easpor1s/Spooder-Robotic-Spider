@@ -74,7 +74,7 @@ sudo /home/your_username/hexapod/venv/bin/python3 /home/spooder/hexapod/main.py
 [MIT](https://opensource.org/license/mit) License
 
 ## Circuit diagram
-https://app.cirkitdesigner.com/project/475be11a-6594-4d5f-bd77-2635c9dc39ba
+[CirkitDesigner](https://app.cirkitdesigner.com/project/475be11a-6594-4d5f-bd77-2635c9dc39ba)
 
 <img width="2560" height="1082" alt="spooder_2026-Jun-12_03-33-17AM-000_CustomizedView14989865191" src="https://github.com/user-attachments/assets/4ae8d033-5426-46f3-b79d-cc33bd51912d" />
 
@@ -84,5 +84,3 @@ https://app.cirkitdesigner.com/project/475be11a-6594-4d5f-bd77-2635c9dc39ba
 
 <img width="2560" height="1082" alt="spooder_2026-Jun-12_03-49-51AM-000_CustomizedView15966012020" src="https://github.com/user-attachments/assets/b154f765-a987-4165-9e39-be1e5c144866" />
 
-Circuit diagram:
-https://app.cirkitdesigner.com/project/475be11a-6594-4d5f-bd77-2635c9dc39ba
