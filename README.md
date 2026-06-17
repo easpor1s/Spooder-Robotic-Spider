@@ -75,6 +75,8 @@ sudo /home/your_username/hexapod/venv/bin/python3 /home/spooder/hexapod/main.py
 
 ## Circuit diagram
 [CirkitDesigner](https://app.cirkitdesigner.com/project/475be11a-6594-4d5f-bd77-2635c9dc39ba)
+<img width="1751" height="1095" alt="Spooder Wiring" src="https://github.com/user-attachments/assets/42cd0fe6-0a23-4690-99c1-62cec3086c6b" />
+
 
 <img width="2560" height="1082" alt="spooder_2026-Jun-12_03-33-17AM-000_CustomizedView14989865191" src="https://github.com/user-attachments/assets/4ae8d033-5426-46f3-b79d-cc33bd51912d" />
 
