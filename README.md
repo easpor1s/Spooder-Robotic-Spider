@@ -33,7 +33,7 @@ Because the models and enclosure is split into multiple components, assembly can
 - Wire all components and add power supply and power bank
 - Assemble all components together, the leg mounts, guards and top enclosure to the baseplate
 ## Setting up code
-To set up code, first make sure all hardware dependencies are met. You will need a Pimoroni Yuking with 5 servo modules attached, a USB-A to USB-C cable running from the Raspberry Pi to the Yukon, a gamepad dongle plugged into the pi and your gyro connected to the pi through i2c as well. On the software side, you must have Python 3.9 and the Pigpio system on the Pi. 
+To set up code, first make sure all hardware dependencies are met. You will need a Pimoroni Yukon with 5 servo modules attached, a USB-A to USB-C cable running from the Raspberry Pi to the Yukon, a gamepad dongle plugged into the pi and your gyro connected to the pi through i2c as well. On the software side, you must have Python 3.9 and the Pigpio system on the Pi. 
 
 PowerShell:
 
@@ -66,14 +66,15 @@ sudo /home/your_username/hexapod/venv/bin/python3 /home/spooder/hexapod/main.py
 [pygame](https://github.com/pygame/pygame)
 
 ## Programs
-[Autodesk Fusion](https://www.autodesk.com/uk/products/fusion-360/overview) for CAD
+[Autodesk Fusion](https://www.autodesk.com/uk/products/fusion-360/overview) for CAD design
 
 [Canva](https://www.canva.com/) for graphic design
 
 ## License
 [MIT](https://opensource.org/license/mit) License
 
-##
+## Circuit diagram
+https://app.cirkitdesigner.com/project/475be11a-6594-4d5f-bd77-2635c9dc39ba
 
 <img width="2560" height="1082" alt="spooder_2026-Jun-12_03-33-17AM-000_CustomizedView14989865191" src="https://github.com/user-attachments/assets/4ae8d033-5426-46f3-b79d-cc33bd51912d" />
 
@@ -82,3 +83,6 @@ sudo /home/your_username/hexapod/venv/bin/python3 /home/spooder/hexapod/main.py
 <img width="2560" height="1082" alt="spooder_2026-Jun-12_03-38-04AM-000_CustomizedView1378896069" src="https://github.com/user-attachments/assets/9b88b611-0174-4437-817d-ab47e9320f6b" />
 
 <img width="2560" height="1082" alt="spooder_2026-Jun-12_03-49-51AM-000_CustomizedView15966012020" src="https://github.com/user-attachments/assets/b154f765-a987-4165-9e39-be1e5c144866" />
+
+Circuit diagram:
+https://app.cirkitdesigner.com/project/475be11a-6594-4d5f-bd77-2635c9dc39ba
