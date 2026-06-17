@@ -24,7 +24,7 @@ We also aim for Spooder to be able to react to gestures such as waves, thumbs up
 
 ## Instructions
 Because the models and enclosure is split into multiple components, assembly can be quite tricky.
-- 3d print all models with petg ot CF-petg except for the leg tips, which should use TPU.
+- 3d print all models with petg or CF-petg except for the leg tips, which should use TPU.
 - Add appropriate brass inserts and bearings, which should be heat set and friction fit appropriately
 - Sand down joints if needed
 - Assemble left and right legs, and mount the body servo arm to the top part of the legs
