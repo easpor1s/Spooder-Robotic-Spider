@@ -6,7 +6,7 @@ The first iteration of Spooder is a remote controlled robotic spider companion w
 At its core, the robot is powered by a 2gb Raspberry Pi 4 connected to a Pimoroni Yukon developement board through UART. The legs use a three jointed, two axis design which allows for a high degree of movement.
 On the legs, one servo controls the legs movement along the X axis and two along the Z axis. This design is very similar to the joint of your finger and allows the robot to grab at objects and sweep itself along smoothly.
 
-<img width="2560" height="1082" alt="spooder_2026-Jun-12_09-50-29PM-000_CustomizedView16624897102" src="https://github.com/user-attachments/assets/4d438c52-7ed9-4b4f-bfc6-06201ae9b604" />
+<img width="2560" height="1227" alt="2" src="https://github.com/user-attachments/assets/485091fc-6f9e-4173-8694-b13f6f4aebc0" />
 
 ## How do I interact with Spooder?
 The first iteration of Spider will be controlled via a game console controller such as an Xbox gamepad. The left joystick will control the robots front and back movement, while the right joystick will control the robots left and right movement. The controller will be 
@@ -78,11 +78,7 @@ sudo /home/your_username/hexapod/venv/bin/python3 /home/spooder/hexapod/main.py
 <img width="1751" height="1095" alt="Spooder Wiring" src="https://github.com/user-attachments/assets/42cd0fe6-0a23-4690-99c1-62cec3086c6b" />
 
 
-<img width="2560" height="1082" alt="spooder_2026-Jun-12_03-33-17AM-000_CustomizedView14989865191" src="https://github.com/user-attachments/assets/4ae8d033-5426-46f3-b79d-cc33bd51912d" />
-
-<img width="2560" height="1082" alt="spooder_2026-Jun-12_03-34-23AM-000_CustomizedView12326146163" src="https://github.com/user-attachments/assets/f7218ef7-9364-4a14-9654-8635a22a3805" />
-
-<img width="2560" height="1082" alt="spooder_2026-Jun-12_03-38-04AM-000_CustomizedView1378896069" src="https://github.com/user-attachments/assets/9b88b611-0174-4437-817d-ab47e9320f6b" />
-
-<img width="2560" height="1082" alt="spooder_2026-Jun-12_03-49-51AM-000_CustomizedView15966012020" src="https://github.com/user-attachments/assets/b154f765-a987-4165-9e39-be1e5c144866" />
+<img width="2560" height="1227" alt="3" src="https://github.com/user-attachments/assets/031dd07c-b1de-48d0-ba9e-ce9b575e8d68" />
+<img width="2160" height="1082" alt="5" src="https://github.com/user-attachments/assets/42a443d3-d3fa-4b82-a32f-4b9db4513439" />
+<img width="2160" height="1082" alt="4" src="https://github.com/user-attachments/assets/7e3f396a-3d70-46d0-b59f-e0b4bf5ef701" />
 
