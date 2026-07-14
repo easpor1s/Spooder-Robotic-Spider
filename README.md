@@ -71,11 +71,12 @@ sudo /home/your_username/hexapod/venv/bin/python3 /home/spooder/hexapod/main.py
 
 [Canva](https://www.canva.com/) for graphic design
 
+[CirkitDesigner](https://app.cirkitdesigner.com/project/475be11a-6594-4d5f-bd77-2635c9dc39ba) Circuit diagram
+
 ## License
 [MIT](https://opensource.org/license/mit) License
 
 ## Circuit diagram
-[CirkitDesigner](https://app.cirkitdesigner.com/project/475be11a-6594-4d5f-bd77-2635c9dc39ba)
 <img width="1751" height="1095" alt="Spooder Wiring" src="https://github.com/user-attachments/assets/42cd0fe6-0a23-4690-99c1-62cec3086c6b" />
 
 
