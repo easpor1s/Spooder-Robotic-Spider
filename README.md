@@ -38,28 +38,30 @@ To set up code, first make sure all hardware dependencies are met. You will need
 
 PowerShell:
 
-powershell -ExecutionPolicy Bypass -File .\deploy.ps1 -PiHost "your_pi_ip" -PiUser "your username"
-
+powershell 
+```sh
+-ExecutionPolicy Bypass -File .\deploy.ps1 -PiHost "your_pi_ip" -PiUser "your username"
+```
 Raspi Terminal:
 
 Setup Environment:
-
+```sh
 ssh your_username@your_pi_ip_here cd /home/your_username/hexapod chmod +x setup_pi.sh ./setup_pi.sh 
-
+```
 Install sys dependancies:
-
+```sh
 sudo apt-get update
 sudo apt-get install python3 python3-pip python3-venv pigpio python3-pigpio git -y
 sudo systemctl enable --now pigpiod
-
+```
 Install Libraries:
-
+```sh
 cd /home/your_username/hexapod source venv/bin/activate pip install --upgrade pip setuptools wheel pip install pygame pyyaml pip install --no-cache-dir adafruit-circuitpython-lsm6ds 
-
+```
 Run controller: 
-
+```sh
 sudo /home/your_username/hexapod/venv/bin/python3 /home/spooder/hexapod/main.py 
-
+```
 
 ## Librarys
 [PIGPIO](https://github.com/joan2937/pigpio) for servo control
