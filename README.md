@@ -86,7 +86,8 @@ Distributed under the MIT License. See [MIT License](https://opensource.org/lice
 <img width="1751" height="1095" alt="Spooder Wiring" src="https://github.com/user-attachments/assets/42cd0fe6-0a23-4690-99c1-62cec3086c6b" />
 
 ## Inverse Kinematics Calculations
-https://www.desmos.com/calculator/ezvpfhsskw
+2d https://www.desmos.com/calculator/ezvpfhsskw
+3d https://www.desmos.com/3d/tjnpyzfqji
 
 <img width="2560" height="1227" alt="3" src="https://github.com/user-attachments/assets/031dd07c-b1de-48d0-ba9e-ce9b575e8d68" />
 <img width="2160" height="1082" alt="5" src="https://github.com/user-attachments/assets/42a443d3-d3fa-4b82-a32f-4b9db4513439" />
