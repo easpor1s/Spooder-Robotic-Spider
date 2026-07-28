@@ -73,7 +73,11 @@ sudo /home/your_username/hexapod/venv/bin/python3 /home/spooder/hexapod/main.py
 
 [Canva](https://www.canva.com/) for graphic design
 
-[CirkitDesigner](https://app.cirkitdesigner.com/project/475be11a-6594-4d5f-bd77-2635c9dc39ba) Circuit diagram
+[CirkitDesigner](https://app.cirkitdesigner.com/project/475be11a-6594-4d5f-bd77-2635c9dc39ba) circuit diagram
+
+[Desmos](https://www.desmos.com/) movement calculations
+
+[Visual Studio Code](https://code.visualstudio.com) Code and SSH access
 
 ## License
 Distributed under the MIT License. See [MIT License](https://opensource.org/licenses/MIT) for more information.
@@ -81,6 +85,8 @@ Distributed under the MIT License. See [MIT License](https://opensource.org/lice
 ## Circuit diagram
 <img width="1751" height="1095" alt="Spooder Wiring" src="https://github.com/user-attachments/assets/42cd0fe6-0a23-4690-99c1-62cec3086c6b" />
 
+## Inverse Kinematics Calculations
+https://www.desmos.com/calculator/ezvpfhsskw
 
 <img width="2560" height="1227" alt="3" src="https://github.com/user-attachments/assets/031dd07c-b1de-48d0-ba9e-ce9b575e8d68" />
 <img width="2160" height="1082" alt="5" src="https://github.com/user-attachments/assets/42a443d3-d3fa-4b82-a32f-4b9db4513439" />
